@@ -1,6 +1,5 @@
 # Web-App
 
-=====================
 
 Pages:
 
@@ -18,7 +17,7 @@ Pages:
 
 
 Based on the following code template
-===============
+---------------
 The MIT License (MIT)
 Copyright (c) 2013 - Vincent Gabriel
 <a href='https://github.com/VinceG/Bootstrap-Admin-Theme' target="_blank">Admin Theme for Bootstrap 2.x</a>
