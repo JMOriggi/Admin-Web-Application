@@ -1,0 +1,114 @@
+20:05:16 01:21:33 Inside function callAPI
+20:05:16 01:21:33 ******** ERROR:  - ERROR CODE: 3
+20:05:16 01:22:43 Inside function callAPI
+20:05:16 01:22:43 ******** ERROR:  - ERROR CODE: 3
+20:05:16 01:24:14 Inside function callAPI
+20:05:16 01:25:31 Inside function callAPI
+20:05:16 01:26:15 Inside function callAPI
+20:05:16 01:27:17 Inside function callAPI
+20:05:16 01:27:24 First Session token check it in db or fetch
+20:05:16 01:27:24 Inside function callAPI
+20:05:16 01:28:04 First Session token check it in db or fetch
+20:05:16 01:28:04 Inside function callAPI
+20:05:16 01:29:31 First Session token check it in db or fetch
+20:05:16 01:29:31 Inside function callAPI
+20:05:16 01:31:22 First Session token check it in db or fetch
+20:05:16 01:31:22 Inside function callAPI
+20:05:16 01:32:28 First Session token check it in db or fetch
+20:05:16 01:32:28 Inside function callAPI
+20:05:16 01:33:14 First Session token check it in db or fetch
+20:05:16 01:33:14 Inside function callAPI
+20:05:16 01:33:31 First Session token check it in db or fetch
+20:05:16 01:33:31 Inside function callAPI
+20:05:16 01:33:49 First Session token check it in db or fetch
+20:05:16 01:33:49 Inside function callAPI
+20:05:16 01:35:07 First Session token check it in db or fetch
+20:05:16 01:35:07 Inside function callAPI
+20:05:16 01:36:04 First Session token check it in db or fetch
+20:05:16 01:36:04 Inside function callAPI
+20:05:16 01:37:02 First Session token check it in db or fetch
+20:05:16 01:37:02 Inside function callAPI
+20:05:16 01:37:19 First Session token check it in db or fetch
+20:05:16 01:37:19 Inside function callAPI
+20:05:16 01:37:26 First Session token check it in db or fetch
+20:05:16 01:37:26 Inside function callAPI
+20:05:16 01:37:47 First Session token check it in db or fetch
+20:05:16 01:37:47 Inside function callAPI
+20:05:16 01:42:54 First Session token check it in db or fetch
+20:05:16 01:42:54 Inside function callAPI
+20:05:16 01:43:36 First Session token check it in db or fetch
+20:05:16 01:43:36 Inside function callAPI
+20:05:16 01:46:17 First Session token check it in db or fetch
+20:05:16 01:46:17 Inside function callAPI
+20:05:16 01:53:05 First Session token check it in db or fetch
+20:05:16 01:53:05 Token still valid
+20:05:16 01:53:05 Inside function callAPI
+20:05:16 05:44:31 First Session token check it in db or fetch
+20:05:16 05:44:31 Refetch token
+20:05:16 05:44:32 Fetched token: eyJraWQiOiIyZzhMWmU0dUNmR2k1dEw0b2diMTdETzMwME53UTg1eUhSOFRsMGJhUjBRPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGlzcGF0Y2hhcGlzYW5kYm94XC9ib29raW5nczpyZWFkIGRpc3BhdGNoYXBpc2FuZGJveFwvYm9va2luZ3M6d3JpdGUgZGlzcGF0Y2hhcGlzYW5kYm94XC9kcml2ZXJldmVudHM6d3JpdGUiLCJhdXRoX3RpbWUiOjE1ODk2NDM4NzIsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xX0xWZGpHWGN2OSIsImV4cCI6MTU4OTY0NzQ3MiwiaWF0IjoxNTg5NjQzODcyLCJ2ZXJzaW9uIjoyLCJqdGkiOiJiNTI5MjUwZC04MTQyLTRmNjMtODVhZS03NTEzZDUyMDM4MmUiLCJjbGllbnRfaWQiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCJ9.Ijr2USDXbD4Z8Tm-kAbzt9JZ_GjidriaTFwNYpITNX1R2PhsjtWgx2__SURD1Qic2f4M9R4vSUT_WY9OiXA282pCLRWvpOLaAGhnjKgRXApRzUryO_uXELNPx1KpF1XePp7xno2K4i0p99RLA-Y5Wq7bWN6SSEG4EZux3R8E5RJdKW8wpbCXzspRQ2ZQqJrMjF32z7CmCkW0N3tVHkY876EcWvQE9SrBlTAGThjrp-wGjV-v21GUGamiCvhJFqyvDxG7k4-WxECoJIP32dTMI8ES9mk4UY7EpvtP382koc02VwMtgYJWjlAkni03uocCrOGTfaHMVFArT0-mAFyCGA
+20:05:16 05:44:53 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:29:31 First Session token check it in db or fetch
+20:05:16 11:29:31 Refetch token
+20:05:16 11:29:32 Fetched token: eyJraWQiOiIyZzhMWmU0dUNmR2k1dEw0b2diMTdETzMwME53UTg1eUhSOFRsMGJhUjBRPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGlzcGF0Y2hhcGlzYW5kYm94XC9ib29raW5nczpyZWFkIGRpc3BhdGNoYXBpc2FuZGJveFwvYm9va2luZ3M6d3JpdGUgZGlzcGF0Y2hhcGlzYW5kYm94XC9kcml2ZXJldmVudHM6d3JpdGUiLCJhdXRoX3RpbWUiOjE1ODk2NjQ1NzEsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xX0xWZGpHWGN2OSIsImV4cCI6MTU4OTY2ODE3MSwiaWF0IjoxNTg5NjY0NTcxLCJ2ZXJzaW9uIjoyLCJqdGkiOiIxYTg2ODBmYy0zOTY1LTQ4MmItYTRjMi00NGQzYTdlYzNlYjQiLCJjbGllbnRfaWQiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCJ9.VpeTO3qwY9hzW4qWqqi6Zn3NfzEOc0W-OKjKewdR2lUV6oFbf9f4FkYx6sC1QYh_gN0i7NyxtcTqTxTj6e0kBpzLvb771x2S_VgTGdnztrw0uartslmvMvkrsBIcSGva1PE-FWAvBNB3Xn8aBnHlD2u4BVsJ5mATTHqCaoLEMy3VpmiZPOfNy0zY4uefIZPTYcBwK4yW8CX069DrRG0_9LpNsTACw4DkijYCr_TFYS87yFeDVQioNCVrgMm2BjVbrOP35Un9Oxdbt-7KeUAPhN5uX7uU1_Zvspx-WBE35HvP5TK7EaneKXr8VI3fd5nlPl3VyAjE_g_kDWklDXF-TQ
+20:05:16 11:29:32 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:37:45 First Session token check it in db or fetch
+20:05:16 11:37:45 Token still valid
+20:05:16 11:37:45 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:45:34 First Session token check it in db or fetch
+20:05:16 11:45:34 Token still valid
+20:05:16 11:45:34 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:16 11:47:42 First Session token check it in db or fetch
+20:05:16 11:47:42 Token still valid
+20:05:16 11:47:42 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:47:46 First Session token check it in db or fetch
+20:05:16 11:47:46 Token still valid
+20:05:16 11:47:46 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:56:58 First Session token check it in db or fetch
+20:05:16 11:56:58 Token still valid
+20:05:16 11:56:58 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:57:36 First Session token check it in db or fetch
+20:05:16 11:57:36 Token still valid
+20:05:16 11:57:36 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 
+20:05:16 11:58:46 First Session token check it in db or fetch
+20:05:16 11:58:46 Token still valid
+20:05:16 11:58:46 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:16 11:59:34 First Session token check it in db or fetch
+20:05:16 11:59:34 Token still valid
+20:05:16 11:59:34 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:11:26 First Session token check it in db or fetch
+20:05:17 12:11:26 Token still valid
+20:05:17 12:11:26 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:12:24 First Session token check it in db or fetch
+20:05:17 12:12:24 Token still valid
+20:05:17 12:12:24 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:33:23 First Session token check it in db or fetch
+20:05:17 12:33:23 Refetch token
+20:05:17 12:33:24 Fetched token: eyJraWQiOiIyZzhMWmU0dUNmR2k1dEw0b2diMTdETzMwME53UTg1eUhSOFRsMGJhUjBRPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCIsInRva2VuX3VzZSI6ImFjY2VzcyIsInNjb3BlIjoiZGlzcGF0Y2hhcGlzYW5kYm94XC9ib29raW5nczpyZWFkIGRpc3BhdGNoYXBpc2FuZGJveFwvYm9va2luZ3M6d3JpdGUgZGlzcGF0Y2hhcGlzYW5kYm94XC9kcml2ZXJldmVudHM6d3JpdGUiLCJhdXRoX3RpbWUiOjE1ODk2Njg0MDMsImlzcyI6Imh0dHBzOlwvXC9jb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVwvZXUtd2VzdC0xX0xWZGpHWGN2OSIsImV4cCI6MTU4OTY3MjAwMywiaWF0IjoxNTg5NjY4NDAzLCJ2ZXJzaW9uIjoyLCJqdGkiOiI5MWE0N2Q1Yi1jNWJkLTQ5YWMtODQ3Zi03ZGUyOTdlYzI5NzYiLCJjbGllbnRfaWQiOiI2czBmcWJoaWlqNDJvNjhqNXBhbGsxcjZmaCJ9.dXUQJ5Bk3qzMloUN4Ywu2z6oHCMQ3B8RcJ3ar-AF0eciJ3aWNTPmnUZWojd_X89t1wI-5ywqt08jZRdyJkXU1dObBiDQCKXTKWZZOycNI8FsIXWTF8by8R27bTdYnOYmIb5YU8tlSTxHt_HagUAvEn_yPb232FJOTOGGFO_92lifSLDGxFwsTvaux99OGOg2n0w0v8tf0iwF8OrRcafqWkyHI3ZiPKjfByhWYgHP8o9Gz6BWgzUryOFkpetdms4xkDlMYeKXYM3ZAiQnNMF8lTXBvKrbSAXEuS26IJDFliQ7lRIIGFes6tAuDYXo1Z4cHhzS-0Stc5r-xcCOSPDPsw
+20:05:17 12:33:24 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:34:12 First Session token check it in db or fetch
+20:05:17 12:34:12 Token still valid
+20:05:17 12:34:12 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:37:40 First Session token check it in db or fetch
+20:05:17 12:37:40 Token still valid
+20:05:17 12:37:40 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:38:19 First Session token check it in db or fetch
+20:05:17 12:38:19 Token still valid
+20:05:17 12:38:19 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:40:02 First Session token check it in db or fetch
+20:05:17 12:40:02 Token still valid
+20:05:17 12:40:02 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:40:31 First Session token check it in db or fetch
+20:05:17 12:40:31 Token still valid
+20:05:17 12:40:31 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:40:42 First Session token check it in db or fetch
+20:05:17 12:40:42 Token still valid
+20:05:17 12:40:42 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:41:05 First Session token check it in db or fetch
+20:05:17 12:41:05 Token still valid
+20:05:17 12:41:05 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:41:35 First Session token check it in db or fetch
+20:05:17 12:41:35 Token still valid
+20:05:17 12:41:35 callAPI - Type: POST - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings/10000005/10101010/responses - Data: {"properties":{"state_hash":{"type":"string","examples":["bwb919pr6ixs34fs8kxnbv19pl6f1q1f905d1c5q1j1jfrfy8f6w6a8pb28g"]},"supplierResponse":{"type":"string","enum":["ACCEPT"]},"cancellationReason":{"type":"string","enum":[""]}}}
+20:05:17 12:52:17 First Session token check it in db or fetch
+20:05:17 12:52:17 Token still valid
+20:05:17 12:52:17 callAPI - Type: GET - Url: https://dispatchapi-sandbox.taxi.booking.com/v1/bookings?status=NEW&changed=True - Data: 

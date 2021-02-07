@@ -1,0 +1,227 @@
+20:05:11 02:03:26 CALL AJAX to execute: getBookings
+20:05:11 02:04:12 CALL AJAX to execute: getBookings
+20:05:11 02:08:58 CALL AJAX to execute: getBookings
+20:05:11 02:09:10 CALL AJAX to execute: getBookings
+20:05:11 02:10:00 CALL AJAX to execute: getBookings
+20:05:11 02:10:20 CALL AJAX to execute: APIpostSinc
+20:05:11 02:10:51 CALL AJAX to execute: getBookings
+20:05:11 02:13:13 CALL AJAX to execute: getBookings
+20:05:11 02:13:40 CALL AJAX to execute: getBookings
+20:05:11 02:13:49 CALL AJAX to execute: APIpostSinc
+20:05:11 02:13:51 CALL AJAX to execute: getBookings
+20:05:11 02:14:55 CALL AJAX to execute: getBookings
+20:05:11 02:18:43 CALL AJAX to execute: getBookings
+20:05:11 02:18:54 CALL AJAX to execute: APIpostSinc
+20:05:11 02:19:00 CALL AJAX to execute: getBookings
+20:05:11 02:19:59 CALL AJAX to execute: getBookings
+20:05:11 02:20:03 CALL AJAX to execute: APIpostSinc
+20:05:11 02:20:08 CALL AJAX to execute: getBookings
+20:05:11 02:20:32 CALL AJAX to execute: getBookings
+20:05:11 02:21:28 CALL AJAX to execute: getBookings
+20:05:11 02:21:35 CALL AJAX to execute: getBookings
+20:05:11 02:21:42 CALL AJAX to execute: APIpostSinc
+20:05:11 02:21:50 CALL AJAX to execute: getBookings
+20:05:11 02:22:32 CALL AJAX to execute: getBookings
+20:05:11 02:22:40 CALL AJAX to execute: APIpostSinc
+20:05:11 02:22:40 CALL AJAX to execute: getBookings
+20:05:11 02:23:18 CALL AJAX to execute: getBookings
+20:05:11 02:23:24 CALL AJAX to execute: APIpostSinc
+20:05:11 02:23:24 CALL AJAX to execute: getBookings
+20:05:11 02:23:40 CALL AJAX to execute: APIpostSinc
+20:05:11 02:23:40 CALL AJAX to execute: getBookings
+20:05:11 02:23:40 CALL AJAX to execute: getBookings
+20:05:11 02:23:56 CALL AJAX to execute: getBookings
+20:05:11 02:24:03 CALL AJAX to execute: APIpostSinc
+20:05:11 02:24:03 CALL AJAX to execute: getBookings
+20:05:11 02:24:51 CALL AJAX to execute: getBookings
+20:05:11 04:01:35 CALL AJAX to execute: getBookings
+20:05:11 04:01:38 CALL AJAX to execute: getBookings
+20:05:11 04:06:33 CALL AJAX to execute: getBookings
+20:05:11 04:07:08 CALL AJAX to execute: getBookings
+20:05:11 04:07:19 CALL AJAX to execute: APIpostSinc
+20:05:11 04:07:19 CALL AJAX to execute: getBookings
+20:05:11 04:08:25 CALL AJAX to execute: getBookings
+20:05:11 04:08:31 CALL AJAX to execute: getBookings
+20:05:11 04:08:47 CALL AJAX to execute: APIpostSinc
+20:05:11 04:08:47 CALL AJAX to execute: getBookings
+20:05:11 04:09:31 CALL AJAX to execute: getBookings
+20:05:11 04:09:41 CALL AJAX to execute: APIpostSinc
+20:05:11 04:09:41 CALL AJAX to execute: getBookings
+20:05:12 06:42:35 CALL AJAX to execute: getBookings
+20:05:12 06:54:12 CALL AJAX to execute: getBookings
+20:05:12 07:00:23 CALL AJAX to execute: getBookings
+20:05:12 07:00:30 CALL AJAX to execute: APIpostSinc
+20:05:12 07:00:30 CALL AJAX to execute: getBookings
+20:05:12 07:09:37 CALL AJAX to execute: getBookings
+20:05:12 07:12:24 CALL AJAX to execute: getBookings
+20:05:12 07:13:26 CALL AJAX to execute: getBookings
+20:05:12 07:32:28 CALL AJAX to execute: getBookings
+20:05:12 07:32:35 CALL AJAX to execute: getBookings
+20:05:12 07:33:25 CALL AJAX to execute: getBookings
+20:05:12 07:33:43 CALL AJAX to execute: getBookings
+20:05:12 07:33:52 CALL AJAX to execute: getBookings
+20:05:12 07:33:55 CALL AJAX to execute: getBookings
+20:05:12 07:40:56 CALL AJAX to execute: getBookings
+20:05:12 07:41:00 CALL AJAX to execute: getBookings
+20:05:12 07:41:18 CALL AJAX to execute: getBookings
+20:05:12 07:41:25 CALL AJAX to execute: getBookings
+20:05:12 07:43:57 CALL AJAX to execute: getBookings
+20:05:12 07:49:21 CALL AJAX to execute: getBookings
+20:05:12 07:49:23 CALL AJAX to execute: getBookings
+20:05:12 07:49:47 CALL AJAX to execute: getBookings
+20:05:12 07:51:34 CALL AJAX to execute: getBookings
+20:05:12 08:13:58 CALL AJAX to execute: getBookings
+20:05:12 08:14:01 CALL AJAX to execute: getBookings
+20:05:12 08:16:38 CALL AJAX to execute: getBookings
+20:05:12 08:23:07 CALL AJAX to execute: getBookings
+20:05:14 11:57:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 11:57:16 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 11:57:29 User manuelOriggi, with id 2 --- CALL AJAX to execute APIpostSinc
+20:05:14 11:57:31 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:00:11 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:02:24 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:06:07 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:08:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:08:43 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:08:52 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:09:06 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:09:14 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:09:23 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:09:28 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:09:36 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:10:28 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:13:02 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:13:10 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:26:11 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:30:32 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:30:37 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:32:35 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:32:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:41:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:43:05 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:47:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:51:11 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:51:33 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:51:43 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 12:52:16 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:00:56 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:02:38 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:48:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:49:55 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:50:03 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:51:16 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:51:22 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:51:32 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:52:16 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:56:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 01:58:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:00:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:00:57 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:01:01 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:01:28 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:01:35 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:05:13 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:05:18 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 02:06:19 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:33:27 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:33:32 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:38:52 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:44:05 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:44:53 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:45:01 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:45:21 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 03:45:37 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:37:37 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:42:33 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:42:35 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:42:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:43:48 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:44:31 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:45:34 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:45:50 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:46:13 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:46:27 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:48:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:49:57 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:50:30 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:50:56 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:51:10 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:57:20 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:57:29 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:58:46 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 05:59:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:00:39 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:00:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:01:08 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:01:22 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:01:44 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:01:55 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:02:00 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:02:13 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:02:21 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:02:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:02:31 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:04:52 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:05:03 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:06:35 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:06:46 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:07:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:07:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:09:35 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:09:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:10:39 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:15:17 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:17:32 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:17:36 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:17:57 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:18:48 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:19:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:20:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:45:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:45:30 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:49:02 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:56:23 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:58:05 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:58:42 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 06:59:47 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:01:09 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:01:56 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:02:08 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:06:54 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:11:24 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:11:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:12:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:15:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:15:56 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:20:16 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:21:29 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:23:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:23:13 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:24:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:24:27 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:24:44 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:26:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:26:36 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:27:18 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:28:18 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:28:38 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:28:50 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:29:06 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:05:14 07:29:30 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 11:53:23 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 11:53:32 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 11:54:01 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 02:17:02 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 02:17:04 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 02:17:12 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:42:05 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:44:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:45:03 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:45:46 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:49:42 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:56:24 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 05:58:41 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 06:36:25 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 06:41:22 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 06:44:40 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
+20:06:04 06:45:48 User manuelOriggi, with id 2 --- CALL AJAX to execute getBookings
