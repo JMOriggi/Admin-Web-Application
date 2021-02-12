@@ -12,7 +12,7 @@ Original web-app for a booking manager of booking taxi company. The goal was to 
 - API command connection
 
 ## API
-
+![Alt text](/git-docs/API_flow.JPG )
 
 Based on the following code template
 ---------------
