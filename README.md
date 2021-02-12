@@ -25,5 +25,5 @@ The MIT License (MIT)
 Copyright (c) 2013 - Vincent Gabriel
 <a href='https://github.com/VinceG/Bootstrap-Admin-Theme' target="_blank">Admin Theme for Bootstrap 2.x</a>
 A generic admin theme built with Bootstrap 3 free for both personal and commercial use.
-Demo:
-http://vinceg.github.com/Bootstrap-Admin-Theme-3
+
+Demo: http://vinceg.github.com/Bootstrap-Admin-Theme-3
