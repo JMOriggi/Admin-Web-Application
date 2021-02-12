@@ -7,8 +7,11 @@ Original web-app for a booking manager of booking taxi company. The goal was to 
 - Login
 - Admin Dashboard
 - Full Calendar (Viewing calendar, adding events, dragging events)
+- Database connection
 - Statistics & Charts (Multiple examples of Pie, Bar, Line charts using Morris.js, knob.js, jquery flot, easypiechart)
 - Form Plugins (Validation, masked input, tags, color picker, date, time, location, inline edit and more)
+- PDF document export
+- E-mail automatic sender
 - API command connection
 
 ## API
