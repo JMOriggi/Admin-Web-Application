@@ -1,6 +1,8 @@
 # Web-App
 
-Original web-app for a booking manager of booking taxi company. The goal was to allow users to login-in in the app and monitor all the running car of the company and activate or deactivate bookings. The system was also connection to a third-party system through an API, to download the bookings done in other websites for the same company. The system was also sending command to other website in order to confirm or cancel some reservations.
+Original web-app for a booking manager of booking taxi company. The goal was to allow users to login-in in the app and monitor all the running car of the company and activate or deactivate bookings. 
+
+The system was also connection to a third-party system through an API, to download the bookings done in other websites for the same company. The system was also sending command to other website in order to confirm or cancel some reservations.
 
 ## Features
 
